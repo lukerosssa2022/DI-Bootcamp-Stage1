@@ -1,0 +1,12 @@
+body{
+  background-color: #8c8e1a;
+}
+h1 {
+  border: 30px;
+  border-style: dashed;
+  text-align: center;
+}
+div>.wrap {
+  border: 30px;
+  border-style: dashed;
+}
