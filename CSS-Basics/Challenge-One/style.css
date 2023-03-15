@@ -1,0 +1,13 @@
+div {
+  background-color: rgb(108, 172, 231);
+}
+
+ul > li::first-letter {
+  font-size: 30px;
+
+}
+
+li {
+  text-align: center;
+  list-style-type: none;
+}
